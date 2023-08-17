@@ -2,6 +2,7 @@
 title: Program 3
 sidebar: true # or false to display the sidebar
 sidebarlogo: fresh-white-alt # From (static/images/logo/)
+draft: true
 ---
 ___
 **Interact with the cloud thorugh a gateway**

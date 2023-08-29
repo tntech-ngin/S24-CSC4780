@@ -53,7 +53,7 @@ Aug 19 -
 * Link Layer Recap [Slides](https://tntech-ngin.github.io/F23-CSC4200/lecture_slides/Lecture11.pdf)
 - **Tue, Sep 05** - Lecture
 - **Thu, Sep 07** - Lecture and lab
-- **Thu, Sep 09** - PA1 due
+- **Sat, Sep 09** - PA1 due
 
 
 ### Week of Sep 10 - Sep 16
@@ -73,7 +73,7 @@ Aug 19 -
 
 - **Tue, Sep 19** - Lecture
 - **Thu, Sep 21** - Lecture and Lab
-- **Thu, Sep 23** - PA2 due
+- **Sat, Sep 23** - PA2 due
 
 ### Week of Sep 24 - Sep 30 ( Exam 1)
 - **Tue, Sep 26** - Recap
@@ -87,7 +87,7 @@ Aug 19 -
 
 - **Tue, Oct 03** - Lecture
 - **Thu, Oct 05** - Lab 
-- **Thu, Oct 07** - PA3 due
+- **Sat, Oct 07** - PA3 due
 
 ### Week of Oct 08 - Oct 14
 **Reading assignment - Chapter 4.1**
@@ -110,7 +110,7 @@ Aug 19 -
 * TCP Congestion control, Congestion avoidance [Slides](https://tntech-ngin.github.io/F23-CSC4200/lecture_slides/Lecture24.pdf)
 - **Tue, Oct 24** - Lecture and Recap
 - **Thu, Oct 26**- Exam 2
-- **Thu, Oct 26**- PA4 due
+- **Sat, Oct 26**- PA4 due
 
 ### Week of Oct 29 - Nov 04
 **Reading assignment** - Chapter 9.1
@@ -134,7 +134,7 @@ Aug 19 -
 * Network Security, VPN/IPSec [Slides](https://tntech-ngin.github.io/F23-CSC4200/lecture_slides/Lecture29.pdf)
 - **Tue, Nov 14** - Lecture
 - **Thu, Nov 16** - - Lecture and Lab
-- **Thu, Nov 18** - PA5 due
+- **Sat, Nov 18** - PA5 due
 
 ### Week of Nov 19 - Nov 25 (Exam 3)
 - **Tue, Nov 21** - Exam 3

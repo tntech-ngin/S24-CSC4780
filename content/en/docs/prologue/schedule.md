@@ -35,13 +35,12 @@ Aug 19 -
 
 ### Week of Aug 27 - Sep 02
 **Reading assignment - Chapter 2-2.5**
-
 * Links, Encoding, Frames, Point to point links, Byte Stuffing, Error detection [Slides](https://tntech-ngin.github.io/F23-CSC4200/lecture_slides/class_slides3.pdf)
 * Reliable Delivery, Stop-n-wait, sliding window [Slides](https://tntech-ngin.github.io/F23-CSC4200/lecture_slides/class_slides4.pdf)
 * Examples and Socket Programming  [Slides](https://tntech-ngin.github.io/F23-CSC4200/lecture_slides/Lecture8.pdf)
 
-- **Thu, Aug 29** - Lecture
-- **Thu, Aug 31** - Lecture and Lab (Socket programing introduction)
+- **Thu, Aug 29** - Lecture 
+- **Thu, Aug 31** - Lecture and Lab 
 
 ### Week of Sep 03 - Sep 09 (Programming Assignment 1 due)
 
@@ -55,7 +54,6 @@ Aug 19 -
 
 
 ### Week of Sep 10 - Sep 16
-
 * Spanning Tree, Loop detection [Slides](https://tntech-ngin.github.io/F23-CSC4200/lecture_slides/Lecture9.pdf)
 * Ethernet, Wifi, CSMA-CA/CD, Transmitter algorithm, Collision avoidance, [Slides](https://tntech-ngin.github.io/F23-CSC4200/lecture_slides/Lecture10.pdf)
 * Link Layer Recap [Slides](https://tntech-ngin.github.io/F23-CSC4200/lecture_slides/Lecture11.pdf)

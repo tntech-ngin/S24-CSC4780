@@ -47,7 +47,7 @@ Aug 19 -
 **Reading assignment - Chapter 2.6-2.7**
 * Links, Encoding, Frames, Point to point links, Byte Stuffing, Error detection [Slides](https://tntech-ngin.github.io/F23-CSC4200/lecture_slides/class_slides3.pdf)
 * Reliable Delivery, Stop-n-wait, sliding window [Slides](https://tntech-ngin.github.io/F23-CSC4200/lecture_slides/class_slides4.pdf)
-* Examples and Socket Programming  [Slides](https://tntech-ngin.github.io/F23-CSC4200/lecture_slides/Lecture8.pdf)
+* Examples and Socket Programming  [Slides](https://tntech-ngin.github.io/F23-CSC4200/lecture_slides/class_slides5.pdf)
 - **Tue, Sep 05** - Lecture
 - **Thu, Sep 07** - Lecture and lab
 - <s>**Thu, Sep 09** - PA1 due</s>

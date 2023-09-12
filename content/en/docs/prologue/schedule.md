@@ -35,8 +35,8 @@ Aug 19 -
 
 ### Week of Aug 27 - Sep 02
 **Reading assignment - Chapter 2-2.5**
-* Links, Encoding, Frames, Point to point links, Byte Stuffing, Error detection [Slides](https://tntech-ngin.github.io/F23-CSC4200/lecture_slides/class_slides3.pdf)
-* Reliable Delivery, Stop-n-wait, sliding window [Slides](https://tntech-ngin.github.io/F23-CSC4200/lecture_slides/class_slides4.pdf)
+* Links, Encoding, Frames, Point to point links, Byte Stuffing, Error detection [Slides](https://tntech-ngin.github.io/F23-CSC4200/lecture_slides/class_slides-3.pdf)
+* Reliable Delivery, Stop-n-wait, sliding window [Slides](https://tntech-ngin.github.io/F23-CSC4200/lecture_slides/class_slides-4.pdf)
 * Examples and Socket Programming  [Slides](https://tntech-ngin.github.io/F23-CSC4200/lecture_slides/Lecture8.pdf)
 
 - **Thu, Aug 29** - Lecture 
@@ -45,18 +45,17 @@ Aug 19 -
 ### Week of Sep 03 - Sep 09 (Programming Assignment 1 due)
 
 **Reading assignment - Chapter 2.6-2.7**
-* Links, Encoding, Frames, Point to point links, Byte Stuffing, Error detection [Slides](https://tntech-ngin.github.io/F23-CSC4200/lecture_slides/class_slides3.pdf)
-* Reliable Delivery, Stop-n-wait, sliding window [Slides](https://tntech-ngin.github.io/F23-CSC4200/lecture_slides/class_slides4.pdf)
-* Examples and Socket Programming  [Slides](https://tntech-ngin.github.io/F23-CSC4200/lecture_slides/class_slides5.pdf)
+* Links, Encoding, Frames, Point to point links, Byte Stuffing, Error detection [Slides](https://tntech-ngin.github.io/F23-CSC4200/lecture_slides/class_slides-3.pdf)
+* Reliable Delivery, Stop-n-wait, sliding window [Slides](https://tntech-ngin.github.io/F23-CSC4200/lecture_slides/class_slides-4.pdf)
+* Examples and Socket Programming  [Slides](https://tntech-ngin.github.io/F23-CSC4200/lecture_slides/Lecture8.pdf)
 - **Tue, Sep 05** - Lecture
 - **Thu, Sep 07** - Lecture and lab
 - <s>**Thu, Sep 09** - PA1 due</s>
 
 
 ### Week of Sep 10 - Sep 16
-* Spanning Tree, Loop detection [Slides](https://tntech-ngin.github.io/F23-CSC4200/lecture_slides/Lecture9.pdf)
-* Ethernet, Wifi, CSMA-CA/CD, Transmitter algorithm, Collision avoidance, [Slides](https://tntech-ngin.github.io/F23-CSC4200/lecture_slides/Lecture10.pdf)
-* Link Layer Recap [Slides](https://tntech-ngin.github.io/F23-CSC4200/lecture_slides/Lecture11.pdf)
+* Ethernet, Wifi, CSMA-CA/CD, Transmitter algorithm, Collision avoidance, [Slides](https://tntech-ngin.github.io/F23-CSC4200/lecture_slides/class-slides-5.1.pdf)
+* Link Layer Recap [Slides](https://tntech-ngin.github.io/F23-CSC4200/lecture_slides/class-slides-6.pdf)
 - **Tue, Sep 12** - Lecture
 - **Thu, Sep 14** - Lecture and Quiz
 - **Thu, Sep 14** - PA1 due
@@ -65,6 +64,7 @@ Aug 19 -
 ### Week of Sep 10 - Sep 16
 **Reading assignment - Chapter 3-3.2.5, Basic IP**
 * Switching [Slides](https://tntech-ngin.github.io/F23-CSC4200/lecture_slides/Lecture12.pdf)
+* Spanning Tree, Loop detection [Slides](https://tntech-ngin.github.io/F23-CSC4200/lecture_slides/Lecture9.pdf)
 * Addressing [Slides](https://tntech-ngin.github.io/F23-CSC4200/lecture_slides/Lecture13.pdf)
 * Addressing, Fragmentation and Reassembly [Slides](https://tntech-ngin.github.io/F23-CSC4200/lecture_slides/Lecture13.pdf)
 

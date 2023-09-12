@@ -55,7 +55,7 @@ Aug 19 -
 
 ### Week of Sep 10 - Sep 16
 * Ethernet, Wifi, CSMA-CA/CD, Transmitter algorithm, Collision avoidance, [Slides](https://tntech-ngin.github.io/F23-CSC4200/lecture_slides/class_slides-5.1.pdf)
-* Link Layer Recap [Slides](https://tntech-ngin.github.io/F23-CSC4200/lecture_slides/class-slides_6.pdf)
+* Link Layer Recap [Slides](https://tntech-ngin.github.io/F23-CSC4200/lecture_slides/class_slides-6.pdf)
 - **Tue, Sep 12** - Lecture
 - **Thu, Sep 14** - Lecture and Quiz
 - **Thu, Sep 14** - PA1 due

@@ -71,15 +71,15 @@ Aug 19 -
 ### Week of Sep 17 - Sep 23 (Programming Assignment 2 due)
 
 - **Reading assignment Chapter - 3.2.6-3.2.9**
-* Spanning Tree, Loop detection [Slides](https://tntech-ngin.github.io/F23-CSC4200/lecture_slides/class_slides-12.pdf)
-* Addressing [Slides](https://tntech-ngin.github.io/F23-CSC4200/lecture_slides/class_slides-13.pdf)
+* Spanning Tree, Loop detection [Slides](https://tntech-ngin.github.io/F23-CSC4200/lecture_slides/class_slides-9.pdf)
+* Addressing [Slides](https://tntech-ngin.github.io/F23-CSC4200/lecture_slides/class_slides-10.pdf)
 
 - **Tue, Sep 19** - Lecture
 - **Thu, Sep 21** - Lecture and Lab
 
 ### Week of Sep 24 - Sep 30 ( Exam 1)
-* ARP, DHCP [Slides](https://tntech-ngin.github.io/F23-CSC4200/lecture_slides/class_slides-14.pdf)
-* NAT, ICMP, Routing vs Switching [Slides](https://tntech-ngin.github.io/F23-CSC4200/lecture_slides/class_slides-15.pdf)
+* ARP, DHCP [Slides](https://tntech-ngin.github.io/F23-CSC4200/lecture_slides/class_slides-11.pdf)
+* NAT, ICMP, Routing vs Switching [Slides](https://tntech-ngin.github.io/F23-CSC4200/lecture_slides/class_slides-12.pdf)
 - **Tue, Sep 26** - Recap
 - **Thu, Sep 28** - Exam 1
 - **Sat, Sep 30** - PA2 due

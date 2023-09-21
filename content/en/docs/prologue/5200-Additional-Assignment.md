@@ -71,7 +71,7 @@ The primary objective of this assignment is to build a streaming client-server a
 
 ## References
 
-- ABE Library Documentation: 
+- ABE Library Documentation: https://acsc.cs.utexas.edu/cpabe/
 - Video Streaming Protocols and Tools: TBD
 - Quality of Experience (QoE) Metrics: TBD
 

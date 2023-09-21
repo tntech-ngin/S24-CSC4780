@@ -14,4 +14,10 @@ We will utilize the VMs we created in LAB 1. Log into two VMs. Follow along with
 Instructions #
 Create two separate Python files for the server and client, named server.py and client.py, respectively.
 Copy and paste the provided skeleton code into the respective files.
-Complete the server code by implementing the missing function calls where indicated by comments. The server should be able to accept connections, receive long messages from clients, process them, and echo back the same message.</description></item></channel></rss>
+Complete the server code by implementing the missing function calls where indicated by comments. The server should be able to accept connections, receive long messages from clients, process them, and echo back the same message.</description></item><item><title>Program 2: Network Packet Handling</title><link>https://tntech-ngin.github.io/F23-CSC4200/docs/prologue/pa2-f23/</link><pubDate>Thu, 12 Jan 2023 11:09:01 -0600</pubDate><guid>https://tntech-ngin.github.io/F23-CSC4200/docs/prologue/pa2-f23/</guid><description>This is an INDIVIDUAL Assignment (Do not collaborate) #
+Due - Sept 30, Saturday, 11:59PM
+Instructions #
+Please read the entire instructions and the skeleton code provided for the server and the client before you start coding.
+Setup #
+Create two separate Python files for the server and client, named server.py and client.py, respectively. Copy and paste the provided skeleton code into the respective files. Implementation #
+Server: Complete the server code by implementing the unpack_packet function.</description></item></channel></rss>

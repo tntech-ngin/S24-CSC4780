@@ -17,6 +17,17 @@ toc: true
 
 **This is a tentative schedule and will change.**
 
+**Grading details**
+-
+| Assessment Type           | Weightage    | Additional Information              |
+|---------------------------|--------------|------------------------------------|
+| In-class Quizzes          | 20%          |                                    |
+| Exams (3 exams)           | 35%          |                                    |
+| Programming Assignments   | 35%          | One late submission allowed. 50% deducted for other late submissions. |
+| Class Participation       | 10%          |                                    |
+
+
+**Class Schedule**
 -----------------------------------------
 Aug 19 -
 

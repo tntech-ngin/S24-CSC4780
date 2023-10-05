@@ -103,7 +103,6 @@ Aug 19 -
 
 - **Tue, Oct 03** - Lecture
 - **Thu, Oct 05** - Lab 
-- **Sat, Oct 07** - PA3 due
 
 ### Week of Oct 08 - Oct 14
 **Reading assignment - Chapter 4.1**
@@ -120,13 +119,13 @@ Aug 19 -
 * TCP Flow Control, Three way handshake [Slides](https://tntech-ngin.github.io/F23-CSC4200/lecture_slides/Lecture22.pdf)
 - **Tue, Oct 17** - Lecture
 - **Thu, Oct 19** - Lecture and Lab 
+- **Sat, Oct 21** - PA3 due
 
 ### Week of Oct 22 - Oct 28 (Programming Assignment 4 due, Exam 2)
 **Reading assignment**  - Chapter 6.3
 * TCP Congestion control, Congestion avoidance [Slides](https://tntech-ngin.github.io/F23-CSC4200/lecture_slides/Lecture24.pdf)
 - **Tue, Oct 24** - Lecture and Recap
 - **Thu, Oct 26**- Exam 2
-- **Sat, Oct 26**- PA4 due
 
 ### Week of Oct 29 - Nov 04
 **Reading assignment** - Chapter 9.1
@@ -134,6 +133,7 @@ Aug 19 -
 * Application, Email [Slides](https://tntech-ngin.github.io/F23-CSC4200/lecture_slides/Lecture26.pdf) 
 - **Tue, Oct 31** - Lecture
 - **Thu, Nov 02** - Lecture and Lab
+- **Sat, Nov 04**- PA4 due
 
 ### Week of Nov 05 - Nov 11
 **Reading assignment** [DNS](https://book.systemsapproach.org/applications/infrastructure.html#name-service-dns)

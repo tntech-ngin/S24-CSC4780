@@ -23,4 +23,14 @@ Instructions #
 Please read the entire instructions and the skeleton code provided for the server and the client before you start coding.
 Setup #
 Create two separate Python files for the server and client, named server.py and client.py, respectively. Copy and paste the provided skeleton code into the respective files. Implementation #
-Server: Complete the server code by implementing the unpack_packet function.</description></item></channel></rss>
+Server: Complete the server code by implementing the unpack_packet function.</description></item><item><title>Program 3 - Simple Protocol</title><link>https://tntech-ngin.github.io/F23-CSC4200/docs/prologue/pa3-f23/</link><pubDate>Thu, 12 Jan 2023 11:09:01 -0600</pubDate><guid>https://tntech-ngin.github.io/F23-CSC4200/docs/prologue/pa3-f23/</guid><description>This is a GROUP Assignment
+Due Oct 21, Submit your work on iLearn.
+Objectives
+Learn to create network packets.
+Learn how packets can be sent over the network.
+Familiarize you with the concept of sockets.
+Learn packing structures, endianness, unpacking, and interpreting network data.
+Learn how to use actual data from a packet.
+Use packet capture to visually inspect protocols.
+Overview
+In this warmup project, you are going to implement a client and a server program that will send a command over the network.</description></item></channel></rss>

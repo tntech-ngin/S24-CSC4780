@@ -125,15 +125,15 @@ Aug 19 -
 **Reading assignment**  - Chapter 6.3
 * TCP Congestion control, Congestion avoidance [Slides](https://tntech-ngin.github.io/F23-CSC4200/lecture_slides/Lecture24.pdf)
 - **Tue, Oct 24** - Lecture and Recap
-- **Thu, Oct 26**- Exam 2
+
 
 ### Week of Oct 29 - Nov 04
 **Reading assignment** - Chapter 9.1
 * Application, Email [Slides](https://tntech-ngin.github.io/F23-CSC4200/lecture_slides/Lecture25.pdf) 
 * Application, Email [Slides](https://tntech-ngin.github.io/F23-CSC4200/lecture_slides/Lecture26.pdf) 
-- **Tue, Oct 31** - Lecture
+- **Tue, Oct 31** - Exam 2
 - **Thu, Nov 02** - Lecture and Lab
-- **Sat, Nov 04**- PA4 due
+
 
 ### Week of Nov 05 - Nov 11
 **Reading assignment** [DNS](https://book.systemsapproach.org/applications/infrastructure.html#name-service-dns)
@@ -150,9 +150,10 @@ Aug 19 -
 * Network Security, VPN/IPSec [Slides](https://tntech-ngin.github.io/F23-CSC4200/lecture_slides/Lecture29.pdf)
 - **Tue, Nov 14** - Lecture
 - **Thu, Nov 16** - - Lecture and Lab
-- **Sat, Nov 18** - PA5 due
+
 
 ### Week of Nov 19 - Nov 25 (Exam 3)
+- **Mon, Nov 20** - PA4 due
 - **Tue, Nov 21** - Exam 3
 - **Thu, Nov 23 (Holiday - Nov 22-24)**
 

@@ -121,18 +121,18 @@ Aug 19 -
 - **Thu, Oct 19** - Lecture and Lab 
 - **Sat, Oct 21** - PA3 due
 
-### Week of Oct 22 - Oct 28 (Programming Assignment 4 due, Exam 2)
+### Week of Oct 22 - Oct 28 
 **Reading assignment**  - Chapter 6.3
 * TCP Congestion control, Congestion avoidance [Slides](https://tntech-ngin.github.io/F23-CSC4200/lecture_slides/Lecture24.pdf)
 - **Tue, Oct 24** - Lecture and Recap
 
 
-### Week of Oct 29 - Nov 04
+### Week of Oct 29 - Nov 04 ( Exam 2)
 **Reading assignment** - Chapter 9.1
 * Application, Email [Slides](https://tntech-ngin.github.io/F23-CSC4200/lecture_slides/Lecture25.pdf) 
 * Application, Email [Slides](https://tntech-ngin.github.io/F23-CSC4200/lecture_slides/Lecture26.pdf) 
-- **Tue, Oct 31** - Exam 2
-- **Thu, Nov 02** - Lecture and Lab
+- **Tue, Oct 31** - Lecture and Lab
+- **Thu, Nov 02** - Exam 2
 
 
 ### Week of Nov 05 - Nov 11
@@ -143,7 +143,7 @@ Aug 19 -
 - **Tue, Nov 07** - Lecture
 - **Thu, Nov 09** - Lecture and Lab
 
-### Week of Nov 12 - Nov 18 (Programming Assignment 5 due)
+### Week of Nov 12 - Nov 18 
 **Reading assignment - Chapter 8.1-8.2**
 * Network Security, Symmetric Key [Slides](https://tntech-ngin.github.io/F23-CSC4200/lecture_slides/Lecture27.pdf)
 * Network Security, Asymmetric Key [Slides](https://tntech-ngin.github.io/F23-CSC4200/lecture_slides/Lecture28.pdf)

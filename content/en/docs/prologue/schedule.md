@@ -123,22 +123,23 @@ Aug 19 -
 
 ### Week of Oct 22 - Oct 28 
 **Reading assignment**  - Chapter 6.3
-* TCP Congestion control, Congestion avoidance [Slides](https://tntech-ngin.github.io/F23-CSC4200/lecture_slides/Lecture24.pdf)
 - **Tue, Oct 24** - Lecture and Recap
 
 
 ### Week of Oct 29 - Nov 04 ( Exam 2)
 **Reading assignment** - Chapter 9.1
-* Application, Email [Slides](https://tntech-ngin.github.io/F23-CSC4200/lecture_slides/Lecture25.pdf) 
-* Application, Email [Slides](https://tntech-ngin.github.io/F23-CSC4200/lecture_slides/Lecture26.pdf) 
+* * TCP Congestion control, Congestion avoidance [Slides](https://tntech-ngin.github.io/F23-CSC4200/lecture_slides/Lecture23.pdf)
 - **Tue, Oct 31** - Lecture and Lab
 - **Thu, Nov 02** - Exam 2
 
 
 ### Week of Nov 05 - Nov 11
+
 **Reading assignment** [DNS](https://book.systemsapproach.org/applications/infrastructure.html#name-service-dns)
 **Reading assignment** [HTTP](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-5.pdf)
 * HTTP [Slides](https://tntech-ngin.github.io/F23-CSC4200/lecture_slides/Lecture25.pdf)
+*Application, Email [Slides](https://tntech-ngin.github.io/F23-CSC4200/lecture_slides/Lecture25.pdf) 
+* Application, Email [Slides](https://tntech-ngin.github.io/F23-CSC4200/lecture_slides/Lecture26.pdf) 
 
 - **Tue, Nov 07** - Lecture
 - **Thu, Nov 09** - Lecture and Lab

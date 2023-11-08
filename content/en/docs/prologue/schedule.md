@@ -135,11 +135,12 @@ Aug 19 -
 
 ### Week of Nov 05 - Nov 11
 
-**Reading assignment** [DNS](https://book.systemsapproach.org/applications/infrastructure.html#name-service-dns)
+**Reading assignment** [DNS]
+
 **Reading assignment** [HTTP](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-5.pdf)
-* HTTP [Slides](https://tntech-ngin.github.io/F23-CSC4200/lecture_slides/Lecture25.pdf)
-*Application, Email [Slides](https://tntech-ngin.github.io/F23-CSC4200/lecture_slides/Lecture25.pdf) 
-* Application, Email [Slides](https://tntech-ngin.github.io/F23-CSC4200/lecture_slides/Lecture26.pdf) 
+
+* HTTP [Slides](https://tntech-ngin.github.io/F23-CSC4200/lecture_slides/Lecture25-1.pdf)
+* Application, Email [Slides](https://tntech-ngin.github.io/F23-CSC4200/lecture_slides/Lecture26-1.pdf) 
 
 - **Tue, Nov 07** - Lecture
 - **Thu, Nov 09** - Lecture and Lab

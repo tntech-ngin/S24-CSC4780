@@ -140,7 +140,7 @@ Aug 19 -
 **Reading assignment** [HTTP](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-5.pdf)
 
 * HTTP [Slides](https://tntech-ngin.github.io/F23-CSC4200/lecture_slides/Lecture25-1.pdf)
-* Application, Email [Slides](https://tntech-ngin.github.io/F23-CSC4200/lecture_slides/Lecture26-1.pdf) 
+* DNS, Email [Slides](https://tntech-ngin.github.io/F23-CSC4200/lecture_slides/Lecture26-1.pdf) 
 
 - **Tue, Nov 07** - Lecture
 - **Thu, Nov 09** - Lecture and Lab
@@ -149,18 +149,20 @@ Aug 19 -
 **Reading assignment - Chapter 8.1-8.2**
 * Network Security, Symmetric Key [Slides](https://tntech-ngin.github.io/F23-CSC4200/lecture_slides/Lecture27.pdf)
 * Network Security, Asymmetric Key [Slides](https://tntech-ngin.github.io/F23-CSC4200/lecture_slides/Lecture28.pdf)
-* Network Security, VPN/IPSec [Slides](https://tntech-ngin.github.io/F23-CSC4200/lecture_slides/Lecture29.pdf)
 - **Tue, Nov 14** - Lecture
 - **Thu, Nov 16** - - Lecture and Lab
 
 
 ### Week of Nov 19 - Nov 25 (Exam 3)
-- **Mon, Nov 20** - PA4 due
 - **Tue, Nov 21** - Exam 3
 - **Thu, Nov 23 (Holiday - Nov 22-24)**
 
 ### Week of Nov 26 - Dec 02
-* Next generation network - Software Defined Network and Named Data Networking.[Slides](https://tntech-ngin.github.io/F23-CSC4200/lecture_slides/Lecture30.pdf)
-- **Tue, Nov 28** - Lecture
+* Demo
+
+- **Mon, Nov 27** - PA4 Due
+- **Mon, Nov 27- 10AM** - PA4 Poster due 
+* Email Cassaundra Trapp at ctrapp@tntech.edu your poster PDF.
+- **Tue, Nov 28 - 11-1PM** - PA4 Demo - Bruner 208 [Template](https://www.tntech.edu/library/poster.php)
 - **Thu, Nov 30** - Last day of class
 
